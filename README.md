@@ -1,3 +1,3 @@
 - 👋 Hola, mi nombre es Miguel Ángel
-- ![image](https://user-images.githubusercontent.com/77485369/189668591-09ce7bf7-e0c1-44a2-95e8-fe93bc5eb4f3.png) -> linkedin.com/in/miguelangelserranodelalamo
+- ![image](https://user-images.githubusercontent.com/77485369/189668591-09ce7bf7-e0c1-44a2-95e8-fe93bc5eb4f3.png) -> https://www.linkedin.com/in/miguelangelserranodelalamo/
 - ![image](https://user-images.githubusercontent.com/77485369/189668848-7293ba90-838c-4c38-b199-056f23a10519.png) -> mserranodelalamo@gmail.com
